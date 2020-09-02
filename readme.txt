@@ -17,3 +17,4 @@ git is free software  009
 java项目
 
 add mapper
+add main
